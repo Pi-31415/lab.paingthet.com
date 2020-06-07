@@ -1,12 +1,3 @@
-<p>Welcome to Pi's laboratory !</p>
-
-<p>Here lies his finished and ongoing, simple and complex, useful and useless experiments / tools-under-development, with code, computers, interactive media, with inspiration from everywhere.</p>
-
-<p>This page automatically updates as Pi carry out his coding experiments. Therefore, what you see now is what he is doing now.</p>
-
-<div style="color:white;background-color: #ef5350;padding:10px;border-radius: 5px;">Note: Some of the experiments may require running on HTTPS protocol. If they are not working, simply replace the <i>http</i> in the URL with <i>https</i>.</div>
-<br>
-<h4>Experiments</h4>
 <?php
 require 'Parsedown.php';
 header("Access-Control-Allow-Origin: *");
